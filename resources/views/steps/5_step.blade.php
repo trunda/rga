@@ -5,7 +5,7 @@
     <hr>
 
     <p class="text-center">
-        <img class="img-fluid" src="/images/orleans.jpg" alt="">
+        <img class="img-fluid" src="/images/orleans.JPG" alt="">
     </p>
 
     <p>
