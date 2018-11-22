@@ -12,7 +12,7 @@
         Právě jsi dorazila na hlavní nádraží v Paříži, ze kterého se budeme společně přesouvat dál.
     </p>
 
-    <p>Pojďme si mezi tím, než ti pojede vlak (jede ti v {{ Carbon\Carbon::now()->addMinute(22)->format('h:i') }}, to je za <strong>22 minut</strong>), říci něco o raném životě Johanky.</p>
+    <p>Pojďme si mezi tím, než ti pojede vlak (jede ti v {{ Carbon\Carbon::now()->addMinute(22)->format('H:i') }}, to je za <strong>22 minut</strong>), říci něco o raném životě Johanky.</p>
 
     <p>Od svých 14 let slýchala Johanka podle své výpovědi hlasy a měla vidění, v nichž se jí zjevovali andělé a světci, především archanděl Michael, sv. Kateřina a sv. Markéta. Johanka se k nim modlila za záchranu Francie, neboť žoldnéřská anglická vojska drancovala a vypalovala její rodný kraj a nezadržitelně se blížila k Orleánsu. Údajné hlasy světců jí prý sdělily, že byla Bohem vyvolena osvobodit Francii, a archanděl Michael ji nabádal, aby na sebe vzala mužský šat a osvobodila Orléans. Inspirovaná těmito hlasy a díky síle své vlastní osobnosti, víře v Boha a přesvědčení ve své poslání vystoupila veřejně se svými úmysly.</p>
 
